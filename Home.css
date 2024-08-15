@@ -1,0 +1,49 @@
+.heading {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    margin: 2rem 0;
+  }
+  
+  .hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa;
+  }
+  
+  .hero-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #222;
+  }
+  
+  .hero-text p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .hero-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .carousel-section {
+    padding: 2rem;
+  }
+  
+  .carousel-caption h5 {
+    font-size: 2rem;
+    color: #fff;
+  }
+  
+  .carousel-caption p {
+    font-size: 1.2rem;
+    color: #ddd;
+  }
+  
